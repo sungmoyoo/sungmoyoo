@@ -11,20 +11,15 @@
 
 ### Programming Language
 
-<img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Back-End
 
-<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mybatis-4479A1?style=flat-square&logo=mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Mybatis-4479A1?style=flat-square&logo=mybatis&logoColor=white"/>
 
 ### Front-End
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
 ### Database
 
@@ -32,9 +27,7 @@
 
 ### Infra
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 <br>
 
