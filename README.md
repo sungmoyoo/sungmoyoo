@@ -11,14 +11,14 @@
 
 ### Programming Language
 
-<img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=JAVA&logoColor=white"/> <a>
+<img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Back-End
 
-  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mybatis-4479A1?style=flat-square&logo=mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-4479A1?style=flat-square&logo=mybatis&logoColor=white"/>
 
 ### Front-End
 
@@ -28,7 +28,7 @@
 
 ### Database
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 ### Infra
 
