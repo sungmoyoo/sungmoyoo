@@ -27,8 +27,7 @@
 
 # Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&theme=dracula&card_width=320)
-![Sungmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula&card_width=320)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&theme=dracula&card_width=320)![Sungmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula&card_width=320)
 
 <div align=center>
 
