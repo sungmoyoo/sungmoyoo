@@ -26,12 +26,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 # Stats
-
-
-
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
-
+<div>
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&"/>
+</div>
 
 <div align=center>
 
