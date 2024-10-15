@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECBDF9,100:B50AD8&height=190&section=header&text=SungMo%20Yoo&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&Stroke=00ff00)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECBDF9,100:B50AD8&height=190&section=header&text=SungMo's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff&Stroke=00ff00)
 
-# About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DCDFFFF&width=435&lines=Hello%2C+I'm+Sungmo+Yoo+%F0%9F%96%90%EF%B8%8F;Welcome+to+my+Github+profile!+;Always+trying+to+learn+new+things+%F0%9F%93%96)](https://git.io/typing-svg)
 
-안녕하세요. 백엔드 개발자 유성모입니다.
-저는 새로운 것을 배우는 과정을 즐기며, 궁금한 점이 생기면 끝까지 파고들어 해결하는 것을 좋아합니다.
-
-지식을 공유하고 소통함으로써 그 지식을 깊이 이해하고, 함께 성장하는 것을 중요하게 생각합니다. 이를 위해 꾸준히 스터디를 진행하고 있습니다.
 
 # Skills
 
@@ -28,6 +24,10 @@
 ### Infra
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+
+# Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&theme=dracula" alt="Top Langs" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula" alt="Sungmos's GitHub stats" height="200" />
 
 <div align=center>
 
