@@ -26,8 +26,11 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&theme=dracula" alt="Top Langs" height="200" />
-<img src="https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula" alt="Sungmos's GitHub stats" height="200" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmoyoo&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="400" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=sungmoyoo&show_icons=true&theme=dracula&hide_border=true" alt="Sungmos's GitHub stats" width="400" height="200" />
+
+
 
 <div align=center>
 
